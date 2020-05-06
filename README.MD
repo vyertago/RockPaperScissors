@@ -1,0 +1,3 @@
+Went through this project to learn a bit more about functions. Whenever i've tried in the past I never understood functions.  I'm still not sure about certain things like how the callback or when to pass functions.  But I'm sure that as time goes on I'll get a better feeling for how they work.
+
+I feel like this could be written much cleaner in the future, and even now after just finishing it, I'd probably write it a bit different if I started again.
